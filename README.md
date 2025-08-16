@@ -39,9 +39,8 @@
 
 ---
 
-## 🎓 Education & Certifications  
+## 🎓 Certifications  
 
-🎓 **PGDM – Data Analytics and Machine Learning** | Jaipuria Institute of Management (2021 – 2023)  
 📜 **Microsoft Certified: Power BI Data Analyst Associate** (2025)  
 📜 Certifications in **SQL, Advanced Excel & VBA, Machine Learning (Python & R)**  
 
