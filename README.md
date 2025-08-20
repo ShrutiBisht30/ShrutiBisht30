@@ -34,8 +34,8 @@
 ---
 
 ## 📂 Featured Projects  
-
- 
+**Spotify-Listening-Analysis-Power-BI**
+ ![Link to repository](https://github.com/ShrutiBisht30/Spotify-Listening-Analysis-Power-BI-)
 
 ---
 
