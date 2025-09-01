@@ -34,7 +34,9 @@
 ---
 
 ## 📂 Featured Projects  
-![**Spotify-Listening-Analysis-Power-BI**](https://github.com/ShrutiBisht30/Spotify-Listening-Analysis-Power-BI-)
+- **Spotify-Listening-Analysis-Power-BI** - ![**Link**](https://github.com/ShrutiBisht30/Spotify-Listening-Analysis-Power-BI-)
+
+- **Telecom-Churn-Analysis** - ![**Link**](https://github.com/ShrutiBisht30/Telecom-Churn-Analysis)
 
 ---
 
